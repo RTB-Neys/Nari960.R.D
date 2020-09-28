@@ -1,0 +1,56 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap');
+</style>
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'David+Libre', sans-serif;
+    color: #222;
+    background-color: rgb(126, 122, 122);
+}
+
+.navbar {
+    padding: 8px;
+}
+
+.navbar-nav li {
+    padding-right: 20px
+}
+
+.nav-link {
+    font-size: 1.2em !important;
+}
+
+.navbar a {
+    float: right;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; 
+    text-align: center; 
+  }
+
+#Image {
+    width: 100%;
+    height: auto;
+}
+
+.logo {
+    width:  10%;
+    height: auto;
+}
+
+footer {
+    background-color: rgb(10, 2, 2);
+    color: rgb(146, 145, 145);
+    padding-top: 2rem;
+}
+
+hr.Footer {
+    border-top: 1px solid #rgb(10, 2, 2);
+    width: 75%;
+}
+
+

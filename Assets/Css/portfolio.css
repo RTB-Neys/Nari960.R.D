@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #361f1f;
+    color: white;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium';
+  }
+  
+  .main {
+    max-width: 75%;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  .row {
+    margin: 8px -16px;
+  }
+  
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+  }
+  
+  .content {
+    background-color: rgb(161, 159, 159);
+    padding: 10px;
+  }
