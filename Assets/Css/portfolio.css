@@ -1,4 +1,31 @@
-* {
+* .navbar {
+  padding: 8px;
+  border-bottom: 3px solid transparent;
+}
+
+.navbar-nav li {
+  padding-right: 20px
+}
+
+.nav-link {
+  font-size: 1.2em !important;
+}
+
+.navbar a {
+  float: left;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%; 
+  text-align: center; 
+}
+
+.logo {
+  width:  20%;
+  height: auto;
+}
+  {
     box-sizing: border-box;
   }
   
@@ -6,7 +33,7 @@
     background-color: rgb(126, 122, 122);
     color: white;
     padding: 20px;
-    font-family: 'Franklin Gothic Medium';
+    font-family:'Franklin Gothic Medium';
   }
   
   .main {
@@ -36,3 +63,15 @@
     background-color: rgb(202, 192, 192);
     padding: 10px;
   }
+
+  footer {
+    background-color: rgb(14, 1, 39);
+    color: rgb(146, 145, 145);
+    padding-top: 2rem;
+}
+
+hr.Footer {
+    border-top: 1px solid #rgb(10, 2, 2);
+    width: 50%;
+}
+
