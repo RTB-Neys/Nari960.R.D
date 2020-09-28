@@ -23,7 +23,7 @@ html, body {
 }
 
 .navbar a {
-    float: right;
+    float: left;
     padding: 10px;
     color: white;
     text-decoration: none;
@@ -32,25 +32,26 @@ html, body {
     text-align: center; 
   }
 
-#Image {
-    width: 100%;
-    height: auto;
-}
+  .jumbotron {
+    background-image: url("https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/sb-blog-programming.png");
+    background-size: cover;
+   
+  }
 
 .logo {
-    width:  10%;
+    width:  20%;
     height: auto;
 }
 
 footer {
-    background-color: rgb(10, 2, 2);
+    background-color: rgb(14, 1, 39);
     color: rgb(146, 145, 145);
     padding-top: 2rem;
 }
 
 hr.Footer {
     border-top: 1px solid #rgb(10, 2, 2);
-    width: 75%;
+    width: 50%;
 }
 
 

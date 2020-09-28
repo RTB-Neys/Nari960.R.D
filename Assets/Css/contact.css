@@ -6,7 +6,7 @@ body, html {
     .bg {
         background-image : url(https://timstrifler.com/wp-content/uploads/sites/9/2015/11/awhCbhLqRceCdjcPQUnn_IMG_0249-1024x522.jpg);
         background-size : cover;
-        background-position : center center;
+        background-position : center;
         position : relative;
         top : 0;
         bottom : 0;
