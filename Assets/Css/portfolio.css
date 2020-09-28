@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: #361f1f;
+    background-color: rgb(126, 122, 122);
     color: white;
     padding: 20px;
     font-family: 'Franklin Gothic Medium';
@@ -33,6 +33,6 @@
   }
   
   .content {
-    background-color: rgb(161, 159, 159);
+    background-color: rgb(202, 192, 192);
     padding: 10px;
   }
